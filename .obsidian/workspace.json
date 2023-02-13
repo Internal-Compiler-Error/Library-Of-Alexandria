@@ -1,0 +1,155 @@
+{
+  "main": {
+    "id": "35d73410f7329e9a",
+    "type": "split",
+    "children": [
+      {
+        "id": "44cd929341801755",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b451a270cf2be9a6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "high thoughts.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "bdd410af1483deb6",
+    "type": "split",
+    "children": [
+      {
+        "id": "06ab2f1eaa6fde6c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c494f6a16b71f5c0",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "d608b9a1a76bc716",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "28967ae5e4f9bb82",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 219.5
+  },
+  "right": {
+    "id": "1479ed651a51712e",
+    "type": "split",
+    "children": [
+      {
+        "id": "e3935e66d579fe56",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3ce0f69f46d1e635",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "high thoughts.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "d9691c9049e0c5bb",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "high thoughts.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "ccf107a4e373d058",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "34decc8516660a6c",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "high thoughts.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "b451a270cf2be9a6",
+  "lastOpenFiles": [
+    "2023-02-12.md",
+    "Untitled.canvas",
+    "high thoughts.md"
+  ]
+}
