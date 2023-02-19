@@ -1,8 +1,8 @@
 -   intelligence is about finding connections and branch on global instead of highly local conditions
--   sharing information is hard, but it's even harder to try to store and find out all the informtion under the sun in one person's or servers mind
+-   sharing information is hard, but it's even harder to try to store and find out all the information under the sun in one person's or servers mind
 	- having an efficient society matters
--   learn to be more socialable, the return is too high to ignore
--   fight, fight like hell, because fortune favors the brave
+-   learn to be more sociable, the return is too high to ignore
+-   fight, fight like hell, because fortune favours the brave
 -   understand the limitations of being an international student, sometimes you have to make sacrifices and accept you cannot choose the same path as others
 -   keep learning, because you can improve general problem solving ability via learning different thing
 	- don't get comfortable, getting comfortable implies you are not learning
