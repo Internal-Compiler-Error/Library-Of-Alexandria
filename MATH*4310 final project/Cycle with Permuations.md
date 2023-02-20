@@ -17,3 +17,8 @@ No idea what it means
 # Notation
 Using [[Two-line notation of Permutations]], each column becomes the top element mapping to the bottom element. Some author will also arrange the column in such a way that for each row, $[i] \rightarrow [i+ 1|$.
 
+
+# Properties
+- any permutation can be decomposed to disjoint cycles
+
+The number of k-cycles in the 
