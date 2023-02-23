@@ -1,4 +1,4 @@
-- if there is a *total order* defined on a set, then there is only *one* way to arrange any combinations of the elements from the set into a sorted sequence
+    - if there is a *total order* defined on a set, then there is only *one* way to arrange any combinations of the elements from the set into a sorted sequence
 	- counterintuitively, to count all the ways a subset (with potential replacements) of a set that follow the a particular order, you simply count the number of combinations
 - knowing the count of something is actually very useful, it allows you to potentially define a bijection from a set that  you're more familiar with to the set you want to work on
 - in recurrence relations, sums are distinct cases and products are nested loops!

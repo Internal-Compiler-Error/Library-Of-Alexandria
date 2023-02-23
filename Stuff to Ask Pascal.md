@@ -1,0 +1,4 @@
+- [ ] proof of the generalized distance formula
+- [ ] why are there two duplicate definitions of separable kernels
+    - [ ] why is an 1d convolution identical to matrix multiplication
+- [ ] will we have to convert RGB to CMY and vice versa on the in person midterm this wednesday"
